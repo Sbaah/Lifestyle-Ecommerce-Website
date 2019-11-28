@@ -11,7 +11,12 @@ Front-end theme for an ecommerce website implemented in Vue. This serves as a st
 - Then run ``` npm run serve ``` to display the defualt Vue layout
 
 # Screenshots:
+![Screen Shot 2019-11-27 at 9 11 25 PM](https://user-images.githubusercontent.com/19510118/69771966-a1f3e300-115c-11ea-9a65-3b6cff6bf53e.png)
 
+![Screen Shot 2019-11-27 at 9 11 55 PM](https://user-images.githubusercontent.com/19510118/69771977-a7512d80-115c-11ea-8d6c-f5ffef229acd.png)
+
+
+![Screen Shot 2019-11-27 at 9 11 43 PM](https://user-images.githubusercontent.com/19510118/69771982-ab7d4b00-115c-11ea-99ff-d7659fc7adeb.png)
 
 ## Project setup For Current Application
 ```
